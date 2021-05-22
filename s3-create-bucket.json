@@ -1,0 +1,8 @@
+{
+  "ACL": "private",
+  "Bucket": "terraform-aws-boilerplate.terraform-state",
+  "CreateBucketConfiguration": {
+    "LocationConstraint": "ap-northeast-1"
+  },
+  "ObjectLockEnabledForBucket": true
+}
